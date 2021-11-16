@@ -11,3 +11,5 @@
 
 ## Project Description
 - In this project I will be making a VR 360 video tour of Holberton's San Francisco campus. Users will be able to navigate between video clips/rooms of the campus.
+
+### [Resource: Play 360 Video with a Skybox in Unity](https://learn.unity.com/tutorial/play-360-video-with-a-skybox-in-unity)
