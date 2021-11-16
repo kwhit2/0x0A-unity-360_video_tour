@@ -10,4 +10,4 @@
 - How to use Unity’s Video Player component
 
 ## Project Description
-- In this project I will be making a 360 video tour of Holberton's San Francisco campus. Users will be able to navigate between video clips/rooms of the campus.
+- In this project I will be making a VR 360 video tour of Holberton's San Francisco campus. Users will be able to navigate between video clips/rooms of the campus.
