@@ -16,8 +16,28 @@ public class LoadScene : MonoBehaviour
     {
         
     }
+
+    // load Cantina scene
     public void CantinaSelect()
     {
         SceneManager.LoadScene(1);
+    }
+
+    // load Cube scene
+    public void CubeSelect()
+    {
+        SceneManager.LoadScene(2);
+    }
+
+    // load LivingRoom scene
+    public void LivingRoomSelect()
+    {
+        SceneManager.LoadScene(0);
+    }
+
+    // load Mezzanine scene
+    public void MezzanineRoomSelect()
+    {
+        SceneManager.LoadScene(3);
     }
 }
