@@ -14,3 +14,8 @@
 - In this project I will be making a VR 360 video tour of Holberton's San Francisco campus for Oculus Quest 2. Users will be able to navigate between video clips/rooms of the campus.
 
 ### [Resource: Play 360 Video with a Skybox in Unity](https://learn.unity.com/tutorial/play-360-video-with-a-skybox-in-unity)
+
+### Music:
+### Tech Live by Kevin MacLeod
+### Link: https://incompetech.filmmusic.io/song/4463-tech-live
+### License: https://filmmusic.io/standard-license
