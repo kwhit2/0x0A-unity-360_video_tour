@@ -9,7 +9,7 @@ public class LoadScene : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+
     }
 
     // Update is called once per frame
@@ -27,7 +27,6 @@ public class LoadScene : MonoBehaviour
     // load Cube scene
     public void CubeSelect()
     {
-        // GetComponent<Animation>().Play("FadeAnim");
         SceneManager.LoadScene(2);
     }
 
