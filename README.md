@@ -1,6 +1,7 @@
 # 0x0A. Unity - 360 Video
 - [Project Page](https://intranet.hbtn.io/projects/523)
 - Built for Oculus Quest 2
+- *See Lastest Release with .apk and Demo Video walkthrough on right side of browser -->*
 
 ## Learning Objectives
 - What is 3DOF vs 6DOF
